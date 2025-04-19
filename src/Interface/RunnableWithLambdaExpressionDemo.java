@@ -36,7 +36,7 @@ public class RunnableWithLambdaExpressionDemo {
 		t2.start();
 		
 		System.out.println("Main FB-B1May25DL-2860");
-		System.out.println("Chnage commit message ");
+		System.out.println("Change commit message ");
 		
 	}
 
